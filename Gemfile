@@ -62,5 +62,5 @@ gem 'simple_form', '>= 4.1.0'
 gem 'bootstrap-datepicker-rails', '>= 1.8.0.1'
 gem 'pry'
 
-gem 'devise', '>= 4.5.0'
+gem 'devise', '>= 4.7.1'
 gem 'cancan'
