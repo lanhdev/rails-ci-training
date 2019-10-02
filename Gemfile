@@ -38,7 +38,7 @@ group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
   # Adds support for Capybara system testing and selenium driver
   gem 'capybara', '~> 2.18', '>= 2.18.0'
-  gem 'selenium-webdriver', '>= 3.7.0'
+  gem 'selenium-webdriver', '>= 3.141.0'
   gem "rspec-rails", ">= 3.8.2"
 end
 
@@ -58,7 +58,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'jquery-rails', '>= 4.3.4'
 gem 'haml'
 gem 'bootstrap-sass', '~> 3.4.1'
-gem 'simple_form', '>= 4.1.0'
+gem 'simple_form', '>= 5.0.0'
 gem 'bootstrap-datepicker-rails', '>= 1.8.0.1'
 gem 'pry'
 
