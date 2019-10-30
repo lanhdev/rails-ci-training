@@ -7,7 +7,7 @@ end
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '~> 5.2.2'
+gem 'rails', '~> 5.2.3'
 gem 'pg'
 
 # Use Puma as the app server
@@ -55,12 +55,12 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-gem 'jquery-rails', '>= 4.3.4'
+gem 'jquery-rails', '>= 4.3.5'
 gem 'haml'
 gem 'bootstrap-sass', '~> 3.4.1'
 gem 'simple_form', '>= 4.1.0'
 gem 'bootstrap-datepicker-rails', '>= 1.8.0.1'
 gem 'pry'
 
-gem 'devise', '>= 4.5.0'
+gem 'devise', '>= 4.7.0'
 gem 'cancan'
